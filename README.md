@@ -1,6 +1,6 @@
 # Portfolio
 
-## Go to website [Click](https://vohongquan-67e37.firebaseapp.com/#/)
+## Go to website [Click](https://vohongquan-67e37.web.app/#/)
 
 
 # How to deploy flutter web using firebase hosting (Good for me)
